@@ -1,5 +1,6 @@
 # Senior-Design---Virtual-Twinning
-Senior Design with Sam, Sean, and Logan
+Senior Design with Sam, Sean, and Logan:
+
 9/4/2025 meeting:
 1. Created a paragraph for a general plan and why we are doing this project
 2. Created github repository for organization and planning

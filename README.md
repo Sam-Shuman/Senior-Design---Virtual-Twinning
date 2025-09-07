@@ -6,10 +6,10 @@ Senior Design with Sam, Sean, and Logan:
   1. Sam has notes on what to change
 
 Going Forward:
-3. Start thinking about a math model for the capacitors
-4. Start Creating a circuit for Dr. Scott to review and approve
+1. Start thinking about a math model for the capacitors
+2. Start Creating a circuit for Dr. Scott to review and approve
    1. Circuit needs to have a way of testing the capacitors and a way of mesureing the capcitors
-5. Starting thinking about a what needs to happen to start the heat test
+3. Starting thinking about a what needs to happen to start the heat test
 
 
 

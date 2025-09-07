@@ -3,7 +3,7 @@ Senior Design with Sam, Sean, and Logan:
 
 **9/5/2025 Advisor meeting:**
 1. Need to change some things for the paragraph but overall ok
-  1. Sam has notes on what to change
+   1. Sam has notes on what to change
 
 Going Forward:
 

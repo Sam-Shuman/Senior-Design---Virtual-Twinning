@@ -12,6 +12,7 @@ Going Forward:
 5. Starting thinking about a what needs to happen to start the heat test
 
 
+
 9/4/2025 meeting:
 1. Created a paragraph for a general plan and why we are doing this project
 2. Created github repository for organization and planning

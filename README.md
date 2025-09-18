@@ -1,5 +1,14 @@
 //# Senior-Design---Virtual-Twinning
 Senior Design with Sam, Sean, and Logan:
+**/9/16/2025 meeting:**
+1. Practiced elevator pitch
+2. built RCL curcuit to test out theory
+3. 
+
+
+**9/12/2025 Advisor meeting:**
+1. Sean did elevator pitch
+2. talked about the difference between RC and RLC circuits
 
 **9/9/2025 meeting:**
 1. Delagated tasks for the week

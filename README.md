@@ -1,10 +1,15 @@
 //# Senior-Design---Virtual-Twinning
 Senior Design with Sam, Sean, and Logan:
-**/9/16/2025 meeting:**
+
+**9/19/2025 Advisor meeting**
+1. Discussed RC Vs RCL
+   1. Logan need to find exact values for the difference in quantization
+2. Went over the testing circuit using Low Pass filter
+3. Need to order parts by next weekend
+
+**9/16/2025 meeting:**
 1. Practiced elevator pitch
 2. built RCL curcuit to test out theory
-3. 
-
 
 **9/12/2025 Advisor meeting:**
 1. Sean did elevator pitch
